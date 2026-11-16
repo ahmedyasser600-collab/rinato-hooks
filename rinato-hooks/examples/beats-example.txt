@@ -1,0 +1,10 @@
+# a 37 s video as beats: <time> <beat>[:<tension>] <what happens>
+0.0  hook     Cards already sliding into a bin. "Non ristampare le tessere timbro."
+3.0  peak     "Era al timbro 8. Riparte da zero."
+6.0  release  The lost card under a car seat.
+14.0 turn     The QR on the counter.
+18.0 release  Stamp shows live.
+27.0 payoff   The reward unlocks.
+32.0 callback The bin from frame 0, empty.
+35.0 cta      Logo.
+end 37
